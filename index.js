@@ -3,7 +3,7 @@ function happyHolidays(string){
   return "Happy holidays!";
 }
 function happyHolidaysTo(name) {
-  comnsole.log(`happy Holidays, ${name}!`);
+  return `Happy holidays, ${name}!`;
 }
 function happyCustomHolidayTo(string){
   return
