@@ -2,7 +2,7 @@
 function happyHolidays(string){
   return "Happy holidays!";
 }
-function happyHolidaysTo(string) {
+function happyHolidaysTo(name) {
   console.log(`happy Holidays To, ${name}!`);
 }
 function happyCustomHolidayTo(string){
